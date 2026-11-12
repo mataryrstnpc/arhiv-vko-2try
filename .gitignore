@@ -1,0 +1,16 @@
+# секреты и данные: не публиковать
+.env
+data/
+site-access.txt
+# скачивается при запуске
+tools/bin/
+# прочее
+node_modules/
+*.part
+.DS_Store
+Thumbs.db
+tests/layout-report.json
+tests/contrast-report.json
+
+# тяжёлые модели для tools/upscale.py (скачиваются отдельно, см. шапку скрипта)
+tools/models/

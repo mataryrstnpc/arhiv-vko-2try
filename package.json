@@ -1,0 +1,19 @@
+{
+  "name": "arhiv-vko-site",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Сайт Государственного архива Восточно-Казахстанской области",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --env-file=.env server.js",
+    "start:public": "node tools/launch.js",
+    "test": "node tests/smoke.js && node tests/formats.js",
+    "build": "python3 dev/build.py",
+    "visual": "node tools/visual-check.js",
+    "admin-walk": "node tools/admin-walk.js"
+  },
+  "engines": {
+    "node": ">=20.6"
+  }
+}

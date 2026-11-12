@@ -1,0 +1,187 @@
+{
+ "rgb-none.tif": {
+  "w": 23,
+  "h": 17,
+  "sha": "3fbc27f0b608cf9b97884c867a46befefad44ba624e5977076b07c75ff4bde85",
+  "first": [
+   0,
+   0,
+   0,
+   11,
+   0,
+   7
+  ]
+ },
+ "rgb-lzw.tif": {
+  "w": 23,
+  "h": 17,
+  "sha": "3fbc27f0b608cf9b97884c867a46befefad44ba624e5977076b07c75ff4bde85",
+  "first": [
+   0,
+   0,
+   0,
+   11,
+   0,
+   7
+  ]
+ },
+ "rgb-deflate.tif": {
+  "w": 23,
+  "h": 17,
+  "sha": "3fbc27f0b608cf9b97884c867a46befefad44ba624e5977076b07c75ff4bde85",
+  "first": [
+   0,
+   0,
+   0,
+   11,
+   0,
+   7
+  ]
+ },
+ "rgb-packbits.tif": {
+  "w": 23,
+  "h": 17,
+  "sha": "3fbc27f0b608cf9b97884c867a46befefad44ba624e5977076b07c75ff4bde85",
+  "first": [
+   0,
+   0,
+   0,
+   11,
+   0,
+   7
+  ]
+ },
+ "rgb-lzw-pred.tif": {
+  "w": 23,
+  "h": 17,
+  "sha": "3fbc27f0b608cf9b97884c867a46befefad44ba624e5977076b07c75ff4bde85",
+  "first": [
+   0,
+   0,
+   0,
+   11,
+   0,
+   7
+  ]
+ },
+ "gray-packbits.tif": {
+  "w": 23,
+  "h": 17,
+  "sha": "ba08f3ae421976d904e9fbf2439b790cab9b54d2bf19557033c30ae8e2562b65",
+  "first": [
+   0,
+   0,
+   0,
+   4,
+   4,
+   4
+  ]
+ },
+ "gray-lzw-strips.tif": {
+  "w": 23,
+  "h": 17,
+  "sha": "ba08f3ae421976d904e9fbf2439b790cab9b54d2bf19557033c30ae8e2562b65",
+  "first": [
+   0,
+   0,
+   0,
+   4,
+   4,
+   4
+  ]
+ },
+ "bw-none.tif": {
+  "w": 23,
+  "h": 17,
+  "sha": "87b6e32555a792f28f3a11512687a19dd1f7fe2bd697bf555460f8e09118666d",
+  "first": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "bw-lzw.tif": {
+  "w": 23,
+  "h": 17,
+  "sha": "87b6e32555a792f28f3a11512687a19dd1f7fe2bd697bf555460f8e09118666d",
+  "first": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "palette-lzw.tif": {
+  "w": 23,
+  "h": 17,
+  "sha": "c8247fefe4a2f288d6aa45e9c9a834cbe5d9573d319ad62e37d813457273c6ea",
+  "first": [
+   55,
+   15,
+   42,
+   55,
+   15,
+   42
+  ]
+ },
+ "gray16-none.tif": {
+  "w": 23,
+  "h": 17,
+  "sha": "bf8035a986d82181bb1484040d171e686e02d1210f2965d39bfce222e7a267c5",
+  "first": [
+   0,
+   0,
+   0,
+   255,
+   255,
+   255
+  ]
+ },
+ "big-lzw.tif": {
+  "w": 240,
+  "h": 160,
+  "sha": "5bf77ea25b405bd95179434a1e2e7a07c87c3cbb34abeedd94389aa829f79711",
+  "first": [
+   0,
+   0,
+   0,
+   3,
+   1,
+   0
+  ]
+ },
+ "bw-g4.tif": {
+  "error": "CCITT G4"
+ },
+ "excel-like.xlsx": {
+  "rows": [
+   [
+    "kind",
+    "title",
+    "archive",
+    "fond",
+    "year_from"
+   ],
+   [
+    "doc",
+    "Приказ о создании архива & «кавычки»",
+    "gavko",
+    "77",
+    "1941"
+   ],
+   [],
+   [
+    "doc",
+    "Встроенная строка",
+    "gavko",
+    "",
+    "1957"
+   ]
+  ]
+ }
+}
